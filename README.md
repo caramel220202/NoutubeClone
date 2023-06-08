@@ -1,6 +1,4 @@
 # NoutubeClone
-
-## Clone app
 동영상을 클릭하여 ExoPlayer 를 이용하여 동영상을 재생 할 수 있다.
 
 ## 배우게 된것
