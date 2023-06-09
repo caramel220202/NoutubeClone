@@ -4,3 +4,4 @@
 ## 배우게 된것
 - mocky를 이용하여 api 생성
 - motionLayout을 통해 동영상 팝업기능 구현
+- MotionLayout , RecyclerView 사용시 Rect 사용하여 스크롤 가능하게 할 수 있다.
